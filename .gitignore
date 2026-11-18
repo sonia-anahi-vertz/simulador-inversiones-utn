@@ -1,0 +1,21 @@
+# Archivos temporales de Visual Studio
+.vs/
+bin/
+obj/
+
+# Dependencias de NuGet
+packages/
+
+# Configuraciones locales
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Resultados de compilación
+Debug/
+Release/
