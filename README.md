@@ -2,6 +2,12 @@
 
 Proyecto académico correspondiente al **Parcial 2 de Introducción al Análisis de Datos** de la Tecnicatura Universitaria en Programación — UTN FRGP.
 
+## Vista previa de la aplicación
+
+![Simulador de inversiones bancarias](docs/simulador.png)
+
+*Ejemplo de simulación con un capital inicial de $850.000 y tasas de interés ficticias.*
+
 ## Objetivo
 
 Desarrollar una aplicación web que permita comparar diferentes opciones de inversión en plazos fijos y determinar qué banco y modalidad ofrecen la mayor ganancia estimada durante un año.
